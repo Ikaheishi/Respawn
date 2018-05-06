@@ -1,0 +1,6 @@
+title: Project Respawn
+repository: Ikaheishi/Respawn
+encoding: UTF-8
+timezone: America/Los_Angeles
+# exclude: ["readme.md",Gemfile*,"*.sh","*.cmd"]
+# google_analytics:
