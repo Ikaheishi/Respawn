@@ -1,3 +1,5 @@
+---
+---
 ## Welcome
 Project Respawn is a place to meet up and chat with people about the Splatoon
 and Pokémon series along with other stuff, including—but not limited to—Art,
