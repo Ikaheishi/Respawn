@@ -12,7 +12,7 @@ Splatfests). However, you're more than welcome to set up your own private
 battle, squad, and league sessions with other people at anytime you like.
 
 This site is currently under construction, but we invite you to
-[come join our Discord server](https://discord.gg/bnj3QCg)
+[come join our Discord server](https://discord.gg/e9JqEcx)
 and hang out with us.
 
 On our Discord server, we have special alert roles that you can join to opt-in
